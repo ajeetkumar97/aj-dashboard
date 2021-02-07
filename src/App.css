@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.menuSec a {
+  padding-left: 20px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
